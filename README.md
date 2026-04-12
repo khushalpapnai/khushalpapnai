@@ -11,46 +11,14 @@ I am a Full Stack Developer with a strong focus on backend development and build
 I enjoy developing real-world systems such as e-commerce platforms, task management systems, and AI-powered applications. My focus is on writing clean, efficient code and building reliable, production-ready solutions.
 
 ---
-
 ## 🛠️ Tech Stack
 
-**Languages:**  
-PHP, Java, Python  
-
-**Backend:**  
-Laravel, Django, REST APIs  
-
-**Frontend:**  
-React, JavaScript, Tailwind CSS  
-
-**Database:**  
-MySQL, PostgreSQL  
-
-**Tools & DevOps:**  
-Git, Docker, Postman  
-
-**AI & Productivity:**  
-GitHub Copilot, Hugging Face, Prompt Engineering  
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Amaze Shop – E-commerce Platform  
-🔗 https://amazeshop.onrender.com  
-A production-ready e-commerce platform with secure payments, real-time order tracking, and admin analytics dashboard.
-
----
-
-### 🔹 Smart Task Management System  
-🔗 https://github.com/khushalpapnai/Smart-Task-Management-System  
-A full-stack Laravel + React application for managing tasks with authentication and REST APIs.
-
----
-
-### 🔹 AI Image Generator  
-🔗 https://huggingface.co/spaces/liljujutsu/Streamlit_vision_Gen_Image  
-AI-powered image generation tool built using Stable Diffusion XL.
+**Languages:** PHP • Java • Python  
+**Backend:** Laravel • Django • REST APIs  
+**Frontend:** React • JavaScript • Tailwind CSS  
+**Database:** MySQL • PostgreSQL  
+**Tools:** Git • Docker • Postman  
+**AI Tools:** GitHub Copilot • Hugging Face  
 
 ---
 
