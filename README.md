@@ -33,7 +33,6 @@ I enjoy developing real-world systems such as e-commerce platforms, task managem
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/khushalpapnai  
 - LinkedIn: https://www.linkedin.com/in/khuhsal-b295a0345/  
 - Email: khushalpapnai91821@gmail.com  
 
