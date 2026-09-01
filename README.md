@@ -16,7 +16,7 @@ I enjoy developing real-world systems such as e-commerce platforms, task managem
 **Languages:** PHP • Java • Python  
 **Backend:** Laravel • Django • REST APIs  
 **Frontend:** React • JavaScript • Tailwind CSS  
-**Database:** MySQL • PostgreSQL  
+**Database:** MySQL • PostgreSQL • MongoDB • Oracle  
 **Tools:** Git • Docker • Postman  
 **AI Tools:** GitHub Copilot • Hugging Face  
 
