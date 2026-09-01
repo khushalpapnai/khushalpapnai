@@ -1,6 +1,6 @@
 # Hi, I'm Khushal 👋
 
-🚀 PHP Full Stack Developer | Backend Engineer | Generative AI  
+🚀 Full Stack Developer | Backend Engineer | Generative AI  
 
 ---
 
@@ -13,8 +13,8 @@ I enjoy developing real-world systems such as e-commerce platforms, task managem
 ---
 ## 🛠️ Tech Stack
 
-**Languages:** PHP • Java • Python  
-**Backend:** Laravel • Django • REST APIs  
+**Languages:** Java • Python  
+**Backend:**  Django • REST APIs  
 **Frontend:** React • JavaScript • Tailwind CSS  
 **Database:** MySQL • PostgreSQL • MongoDB • Oracle  
 **Tools:** Git • Docker • Postman  
